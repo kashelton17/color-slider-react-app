@@ -54,10 +54,10 @@
 
 .rgb {
   display: inline-block;
-  border: solid 1px grey;
+  border: solid 2px rgb(255, 253, 253);
   padding: 1%;
   width: 25%;
-  border-radius: 15px 15px 15px 15px;;
+  border-radius: 15px 15px 15px 15px;
 }
 
 #red {
@@ -69,5 +69,7 @@
 #green {
   color: green
 }
+
+
 
 
