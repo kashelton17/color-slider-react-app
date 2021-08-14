@@ -1,16 +1,15 @@
 import './App.css';
-import Slider from './components/Slider'
-import Output from './components/Output'
+import ColorBrowser from './components/colorBrowser/ColorBrowser'
 
 
 function App() {
+  
   return (
     <div className="App">
-      <header>Color Browser</header>
-      <Slider />
-      <Slider />
-      <Slider />
-      <Output />
+      <header>
+        <h1>Color Browser</h1>
+      </header>
+      <ColorBrowser />
     </div>
   );
 }

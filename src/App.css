@@ -4,6 +4,8 @@
 
 .App {
   text-align: center;
+  color:blanchedalmond
+
 }
 
 .App-logo {
@@ -40,3 +42,32 @@
     transform: rotate(360deg);
   }
 }
+
+.slider {
+  padding: 1%;
+  width: 25%
+}
+
+.slider-div {
+  padding: 1%
+}
+
+.rgb {
+  display: inline-block;
+  border: solid 1px grey;
+  padding: 1%;
+  width: 25%;
+  border-radius: 15px 15px 15px 15px;;
+}
+
+#red {
+  color: red
+}
+#blue {
+  color: blue
+}
+#green {
+  color: green
+}
+
+
