@@ -55,6 +55,7 @@
 .rgb {
   display: inline-block;
   border: solid 2px rgb(255, 253, 253);
+  text-shadow: 0 0 3px #070707, 0 0 5px #070707;
   padding: 1%;
   width: 25%;
   border-radius: 15px 15px 15px 15px;
